@@ -1,0 +1,58 @@
+#containertwo{
+  padding: 1%;
+  margin-top: 3%;
+  box-shadow: 0px 1px 5px 2px;
+  height: 77rem;
+  /* width: 100%; */
+  margin-top: 6%;
+}
+
+.mainheading{
+    /* text-align: center; */
+    font-size: 22px;
+    color: blue;
+    font-family: sans-serif;
+    font-weight: bold;
+    /* margin: auto; */
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.secondheading{
+  text-align: center;
+    font-size: 14px;
+    /* font-weight: bold; */
+  font-family: sans-serif;
+}
+#containerone{
+  padding: 1%;
+    margin-top: 3%;
+    box-shadow: 0px 1px 5px 2px;
+    height: 77rem;
+    width: 78%;
+    
+
+}
+input[type="radio"] {
+  transform: scale(2) !important;
+}
+input[type="checkbox"] {
+  transform: scale(2) !important;
+}
+#container {
+  font-size: 20px;
+    display: block;
+    width: 36px;
+    height: 34px;
+    border-radius: 50%;
+    border: 3px solid white;
+    line-height: 16px;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #007bff;
+    cursor: pointer;
+}
+.btn-primary {
+ 
+  width: 86% !important;
+  font-size: 20px !important;
+}
